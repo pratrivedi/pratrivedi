@@ -37,9 +37,9 @@ When I am not coding, I enjoy hiking and exploring new places. I am also an avid
 <!-- ![My Github Status](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pratrivedi&theme=react&line_height=40&hide=css) -->
 
 ### Pradhumn's Github Status
-![Neeraj's Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=pratrivedi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
+![Pradhumn's Github Status](https://denvercoder1-github-readme-stats.vercel.app/api/?username=pratrivedi&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)
 
 ### Pradhumn's Contribution Graph
-![Neeraj's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=Pratrivedi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![Pradhumn's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph/?username=Pratrivedi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=💥Full%20Stack%20Developer;💥Backend%20Developer;✨Python%20Developer✨;I%20love%20coding;✨Backend%20Engineer✨;✨Frontend%20Expert✨;✨Django%20Master✨;🏆Professional%20coding%20experience🏆;📖Always%20learning%20new%20techs📖&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
